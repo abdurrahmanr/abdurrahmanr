@@ -1,6 +1,4 @@
 ### Hi there 👋
-<img src="https://komarev.com/ghpvc/?username=abdurrahmanr&style=flat-square&color=blue" alt=""/>
-
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6484b41f87dba4077125ff80?variant=dark&roadmaps=react)](https://roadmap.sh)
 <!--
 **abdurrahmanr/abdurrahmanr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
