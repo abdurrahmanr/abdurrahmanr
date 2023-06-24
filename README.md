@@ -1,9 +1,11 @@
 ### Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="100" height="100" />
+
 ```SQL
 SELECT * FROM Humanity WHERE name = "Abdurrahman Rahim";
 ```
+
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6484b41f87dba4077125ff80?variant=dark&roadmaps=react)](https://roadmap.sh)
 
 
