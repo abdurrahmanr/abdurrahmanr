@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 ```SQL
-SELECT * FROM humanity WHERE Name = "Abdurrahman Rahim";
+SELECT * FROM Humanity WHERE name = "Abdurrahman Rahim";
 ```
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6484b41f87dba4077125ff80?variant=dark&roadmaps=react)](https://roadmap.sh)
 
