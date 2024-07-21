@@ -1,25 +1,3 @@
-### Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="100" height="100" />
-
-```SQL
-SELECT * FROM Humanity WHERE name = "Abdurrahman Rahim";
-```
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6484b41f87dba4077125ff80?variant=dark&roadmaps=react)](https://roadmap.sh)
-
-
-<!--
-**abdurrahmanr/abdurrahmanr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+fn main() {
+    println!("Hello, world! 👋");
+}
